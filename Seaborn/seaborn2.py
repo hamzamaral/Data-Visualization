@@ -8,13 +8,13 @@ Created on Thu Jun 23 21:10:41 2022
 
 pip install pip
 pip install seaborn
-import numpy as np # linear algebra
+import numpy as np # linear algebrafrfrf
 import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
 import seaborn as sns
 import matplotlib.pyplot as plt
 from collections import Counter
-# Input data files are available in the "../input/" directory.
-# For example, running this (by clicking run or pressing Shift+Enter) will list the files in the input directory
+# Input data files are available in the "../input/" directory.frfrf
+# For example, running this (by clicking run or pressing Shift+Enter) will list the files in the input directoryfrfr
 
 import warnings
 warnings.filterwarnings('ignore') 
@@ -67,7 +67,7 @@ data = pd.DataFrame({'area_list': area_list,'area_poverty_ratio':area_poverty_ra
 new_index = (data['area_poverty_ratio'].sort_values(ascending=False)).index.values
 sorted_data = data.reindex(new_index)
 
-# visualization
+# visualizationfrfrfrfrfrfrfrf
 plt.figure(figsize=(15,10))
 sns.barplot(x=sorted_data['area_list'], y=sorted_data['area_poverty_ratio'])
 plt.xticks(rotation= 45)
@@ -85,7 +85,7 @@ separate = kill.name[kill.name != 'TK TK'].str.split()
 
 a,b = zip(*separate)                    
 name_list = a+b                         
-name_count = Counter(name_list)#list objelerini sayar dict yapısında Anahtar-Miktar ikilisi döndürür. 
+name_count = Counter(name_list)#list objelerini sayar dict yapısında Anahtar-Miktar ikilisi döndürür.frfrfrfr 
 
 most_common_names = name_count.most_common(15)
 
@@ -98,7 +98,7 @@ plt.xlabel('Name or Surname of killed people')
 plt.ylabel('Frequency')
 plt.title('Most common 15 Name or Surname of killed people')
 
-# High school graduation rate of the population that is older than 25 in states
+# High school graduation rate of the population that is older than 25 in statesfrfrf
 
 percent_over_25_completed_highSchool.head()
 
@@ -118,7 +118,7 @@ for i in area_list:
 data = pd.DataFrame({'area_list': area_list,'area_highschool_ratio':area_highschool})
 new_index = (data['area_highschool_ratio'].sort_values(ascending=True)).index.values
 sorted_data2 = data.reindex(new_index)
-# visualization
+# visualizationfrfrfrfr
 plt.figure(figsize=(15,10))
 
 sns.barplot(x=sorted_data2['area_list'], y=sorted_data2 ['area_highschool_ratio'])
