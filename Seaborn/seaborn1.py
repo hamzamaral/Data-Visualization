@@ -74,10 +74,95 @@ a3= pd.DataFrame(percent_over_25_completed_highSchool)
 a4= pd.DataFrame(share_race_city)
 a5= pd.DataFrame(kill)
 
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
 
 
 
-
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
 
 
 
