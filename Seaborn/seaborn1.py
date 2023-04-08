@@ -120,6 +120,49 @@ a5= pd.DataFrame(kill)
 
 
 
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
 
 
 
