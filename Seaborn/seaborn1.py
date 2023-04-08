@@ -76,7 +76,107 @@ a5= pd.DataFrame(kill)
 
 
 
-#hamzamaral
+#deneme deneme
+#deneme deneme
+#deneme deneme
+#deneme deneme
+#deneme deneme
+#deneme deneme
+#deneme deneme
+#deneme deneme
+#deneme deneme
+
+
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+
+
+
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+#qw   qlıdıbd  wıucbewcdıuwcbpdıuwbcpbdwecob
+ac
 
 
 
